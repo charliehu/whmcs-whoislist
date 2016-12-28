@@ -994,3 +994,133 @@
 .cars|whois.uniregistry.net|is available for registration
 .lol|whois.uniregistry.net|is available for registration
 .mom|whois.uniregistry.net|is available for registration
+.2000.hu|whois.nic.hu|No match
+.ac.id|whois.pandi.or.id|DOMAIN NOT FOUND
+.ac.id|whois.pandi.or.id|DOMAIN NOT FOUND
+.ac.id|whois.pandi.or.id|DOMAIN NOT FOUND
+.ac.ke|whois.kenic.or.ke|No Object Found
+.ac.tz|whois.tznic.or.tz|No entries found
+.ac.tz|whois.tznic.or.tz|No entries found
+.agrar.hu|whois.nic.hu|No match
+.ar.com|whois.centralnic.net|DOMAIN NOT FOUND
+.arpa|whois.iana.org|0 objects
+.arpa|whois.iana.org|0 objects
+.biz.id|whois.pandi.or.id|DOMAIN NOT FOUND
+.biz.id|whois.pandi.or.id|DOMAIN NOT FOUND
+.biz.id|whois.pandi.or.id|DOMAIN NOT FOUND
+.bolt.hu|whois.nic.hu|No match
+.casino.hu|whois.nic.hu|No match
+.city.hu|whois.nic.hu|No match
+.cm|whois.netcom.cm|Not Registered
+.co.id|whois.pandi.or.id|DOMAIN NOT FOUND
+.co.id|whois.pandi.or.id|DOMAIN NOT FOUND
+.co.id|whois.pandi.or.id|DOMAIN NOT FOUND
+.co.ke|whois.kenic.or.ke|No Object Found
+.com.es|whois.crsnic.net|No match for
+.com.mk|whois.marnet.mk|No entries found
+.com.mk|whois.marnet.mk|No entries found
+.com.pa|http://www.nic.pa/whois.php?nombre_d=|HTTPREQUEST-esta disponible para ser Registrado
+.com.pa|http://www.nic.pa/whois.php?nombre_d=|HTTPREQUEST-esta disponible para ser Registrado
+.com.pe|kero.yachay.pe|Not Registered
+.co.tz|whois.tznic.or.tz|No entries found
+.co.tz|whois.tznic.or.tz|No entries found
+.co.zw|http://zispa.co.zw/cgi-bin/domain_lookup.pl?s=|HTTPREQUEST-is available for registration
+.co.zw|http://zispa.co.zw/cgi-bin/domain_lookup.pl?s=|HTTPREQUEST-is available for registration
+.desa.id|whois.pandi.or.id|DOMAIN NOT FOUND
+.desa.id|whois.pandi.or.id|DOMAIN NOT FOUND
+.desa.id|whois.pandi.or.id|DOMAIN NOT FOUND
+.edu.es|whois.crsnic.net|No match for
+.edu.mk|whois.marnet.mk|No entries found
+.edu.mk|whois.marnet.mk|No entries found
+.erotica.hu|whois.nic.hu|No match
+.erotika.hu|whois.nic.hu|No match
+.film.hu|whois.nic.hu|No match
+.film.hu|whois.nic.hu|No match
+.film|whois.nic.film|No Data Found
+.forum.hu|whois.nic.hu|No match
+.games.hu|whois.nic.hu|No match
+.gf|whois.nplus.gf|not found in our database
+.gob.es|whois.crsnic.net|No match for
+.go.ke|whois.kenic.or.ke|No Object Found
+.go.ke|whois.kenic.or.ke|No Object Found
+.go.tz|whois.tznic.or.tz|No entries found
+.go.tz|whois.tznic.or.tz|No entries found
+.hotel.hu|whois.nic.hu|No match
+.idrett.no|whois.norid.no|No match
+.inf.mk|whois.marnet.mk|No entries found
+.inf.mk|whois.marnet.mk|No entries found
+.info.hu|whois.nic.hu|No match
+.info.ke|whois.kenic.or.ke|No Object Found
+.info.ke|whois.kenic.or.ke|No Object Found
+.ingatlan.hu|whois.nic.hu|No match
+.jogasz.hu|whois.nic.hu|No match
+.konyvelo.hu|whois.nic.hu|No match
+.lakas.hu|whois.nic.hu|No match
+.ltda|whois.afilias-srs.net|NOT FOUND
+.media.hu|whois.nic.hu|No match
+.me.ke|whois.kenic.or.ke|No Object Found
+.me.ke|whois.kenic.or.ke|No Object Found
+.me.tz|whois.tznic.or.tz|No entries found
+.me.tz|whois.tznic.or.tz|No entries found
+.mk|whois.marnet.mk|No entries found
+.mobi.ke|whois.kenic.or.ke|No Object Found
+.mobi.ke|whois.kenic.or.ke|No Object Found
+.moe|whois.nic.moe|No Domain exists
+.movie|whois.donuts.co|Domain not found
+.my.id|whois.pandi.or.id|DOMAIN NOT FOUND
+.my.id|whois.pandi.or.id|DOMAIN NOT FOUND
+.my.id|whois.pandi.or.id|DOMAIN NOT FOUND
+.ne.ke|whois.kenic.or.ke|No Object Found
+.ne.ke|whois.kenic.or.ke|No Object Found
+.net.mk|whois.marnet.mk|No entries found
+.net.pa|http://www.nic.pa/whois.php?nombre_d=|HTTPREQUEST-esta disponible para ser Registrado
+.net.pa|http://www.nic.pa/whois.php?nombre_d=|HTTPREQUEST-esta disponible para ser Registrado
+.ne.tz|whois.tznic.or.tz|No entries found
+.ne.tz|whois.tznic.or.tz|No entries found
+.news.hu|whois.nic.hu|No match
+.news.hu|whois.nic.hu|No match
+.nom.es|whois.crsnic.net|No match for
+.org.hu|whois.nic.hu|No match
+.org.mk|whois.marnet.mk|No entries found
+.org.mk|whois.marnet.mk|No entries found
+.org.pa|http://www.nic.pa/whois.php?nombre_d=|HTTPREQUEST-esta disponible para ser Registrado
+.org.pa|http://www.nic.pa/whois.php?nombre_d=|HTTPREQUEST-esta disponible para ser Registrado
+.or.id|whois.pandi.or.id|DOMAIN NOT FOUND
+.or.id|whois.pandi.or.id|DOMAIN NOT FOUND
+.or.ke|whois.kenic.or.ke|No Object Found
+.or.tz|whois.tznic.or.tz|No entries found
+.osaka|whois.nic.osaka|No Domain exists
+.pa|http://www.nic.pa/whois.php?nombre_d=|HTTPREQUEST-esta disponible para ser Registrado
+.paris|whois-paris.nic.fr|The queried object does not exist
+.plumbing |whois.donuts.co|Domain not found
+.priv.hu|whois.nic.hu|No match
+.priv.no|whois.norid.no|No match
+.reklam.hu|whois.nic.hu|No match
+.ru.com|whois.verisign-grs.com|No match for
+.sch.id|whois.pandi.or.id|DOMAIN NOT FOUND
+.sch.id|whois.pandi.or.id|DOMAIN NOT FOUND
+.sch.id|whois.pandi.or.id|DOMAIN NOT FOUND
+.sc.ke|whois.kenic.or.ke|No Object Found
+.sc.ke|whois.kenic.or.ke|No Object Found
+.sc.tz|whois.tznic.or.tz|No entries found
+.sc.tz|whois.tznic.or.tz|No entries found
+.sex.hu|whois.nic.hu|No match
+.sex.hu|whois.nic.hu|No match
+.sex|whois.afilias-srs.net|NOT FOUND
+.shop.hu|whois.nic.hu|No match
+.sport.hu|whois.nic.hu|No match
+.srl|whois.afilias-srs.net|NOT FOUND
+.store.ro|whois.rotld.ro|No entries found
+.suli.hu|whois.nic.hu|No match
+.swiss|whois.nic.swiss|The queried object does not exist: no matching objects found
+.szex.hu|whois.nic.hu|No match
+.tk|https://partners.nic.tk/cgi-bin/whmcs-whois.taloha?d=|HTTPREQUEST-has no matches
+.tm.hu|whois.nic.hu|No match
+.tozsde.hu|whois.nic.hu|No match
+.tv.tz|whois.tznic.or.tz|No entries found
+.tv.tz|whois.tznic.or.tz|No entries found
+.utazas.hu|whois.nic.hu|No match
+.video.hu|whois.nic.hu|No match
+.web.id|whois.pandi.or.id|DOMAIN NOT FOUND
+.web.id|whois.pandi.or.id|DOMAIN NOT FOUND
+.web.id|whois.pandi.or.id|DOMAIN NOT FOUND
